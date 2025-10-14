@@ -1,11 +1,5 @@
-// App.tsx
-// ------------------------------------------------------------
-// 🌸 Exemplo didático: Classificador de Animes com useState
-// ------------------------------------------------------------
-// Este exemplo mostra como usar o Hook useState em React Native
-// para alterar dinamicamente a cor e o texto de cards de anime.
-// Cada card tem botões de avaliação e muda o fundo ao clicar.
-// ------------------------------------------------------------
+
+
 
 import React from "react"; // Importa o React
 import {
@@ -74,3 +68,4 @@ const styles = StyleSheet.create({
     paddingBottom: 40,    // espaço ao final para não cortar o último card
   },
 });
+
