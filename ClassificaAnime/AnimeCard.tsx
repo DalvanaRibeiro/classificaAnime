@@ -1,4 +1,4 @@
-// components/AnimeCard.tsx
+
 // ------------------------------------------------------------
 // Componente de Card de Anime
 // ------------------------------------------------------------
@@ -100,3 +100,4 @@ const styles = StyleSheet.create({
     marginTop: 10,
   },
 });
+
